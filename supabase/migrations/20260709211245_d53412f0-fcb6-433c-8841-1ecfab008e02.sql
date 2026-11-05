@@ -1,0 +1,1 @@
+CREATE POLICY "Public read food images" ON storage.objects FOR SELECT USING (bucket_id = 'food-images');
