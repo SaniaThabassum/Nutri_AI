@@ -1,3 +1,5 @@
+https://food-nutritio-checker.lovable.app
+
 # 🥗 NutriAI — AI-Powered Nutrition Tracker
 
 NutriAI is a complete personal nutrition tracking web app. Search a curated database of **870 Indian & global dishes**, log meals by tap or voice, analyze free-text meal descriptions with AI, and track calories, macros, hydration and weight against personalized goals.
